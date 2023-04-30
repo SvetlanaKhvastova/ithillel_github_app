@@ -1,1 +1,1 @@
-# ithillel_githab_app
+# ithillel_github_app
